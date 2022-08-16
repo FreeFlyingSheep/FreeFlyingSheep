@@ -1,11 +1,11 @@
 ## :wave: Hi, I'm Feiyang Chen (FreeFlyingSheep)!
 
-### About Me
+### :sheep: About Me
 
-- A coder interested in learning new things.
-- Blog: https://freeflyingsheep.github.io/
+- :computer: A coder interested in learning new things.
+- :notebook: Blog: https://freeflyingsheep.github.io/
 
-### GitHub Analytics
+### :gear: GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/FreeFlyingSheep">
@@ -14,6 +14,6 @@
 </a>
 </p>
 
-### Connect with Me
+### :link: Connect with Me
 
-- Email: chris.chenfeiyang@outlook.com
+- :e-mail: Email: chris.chenfeiyang@outlook.com
