@@ -16,4 +16,4 @@
 
 ### :link: Connect with Me
 
-- :e-mail: Email: chris.chenfeiyang@outlook.com
+- :e-mail: Email: chris.chenfeiyang@gmail.com
